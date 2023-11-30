@@ -9,3 +9,15 @@ To aid the development of zero-knowledge applications and the adoption of digita
 ## The List
 - Email ([DKIM signatures](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail))
 	- [PROJECT] [ZK Email](https://github.com/zkemail)
+	- [PROJECT] [ZKP2P](https://github.com/zkp2p/zk-p2p)
+- Passports (150+ countries have [biometric/e-passports](https://en.wikipedia.org/wiki/Biometric_passport))
+	- [PROJECT] [Proof of Passport](https://github.com/zk-passport/proof-of-passport)
+- EU [Residence Cards](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1954) for foreign nationals 
+- [eIDAS](https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation) (future electronic id cards for EU citizens)
+- Credit Card Transactions ([EMV](https://en.wikipedia.org/wiki/EMV) cryptograms)
+	- [PROJECT] [GOAT RAMP](https://ethglobal.com/showcase/goat-ramp-futsg)
+- HTTPS/TLS (signatures are only used during the key-exchange handshake, to prove authenticity of sessions a workaround is needed)
+	- [PROJECT] [TLS Notary](https://tlsnotary.org/) (Performs an MPC with a 3rd party notary)
+	- [PROJECT] [Reclaim Protocol](https://www.reclaimprotocol.org/) (A 3rd party provides an attesting signature)
+- Git commits
+- Blockchain transactions (many projects)

@@ -12,7 +12,7 @@ To aid the development of zero-knowledge applications and the adoption of digita
 	- [PROJECT] [ZKP2P](https://github.com/zkp2p/zk-p2p)
 - Passports (150+ countries have [biometric/e-passports](https://en.wikipedia.org/wiki/Biometric_passport))
 	- [PROJECT] [Proof of Passport](https://github.com/zk-passport/proof-of-passport)
-- EU [Residence Cards](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1954) for foreign nationals 
+- EU [Residence Cards](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1954) for foreign nationals
 - [eIDAS](https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation) (future electronic id cards for EU citizens)
 - Credit Card Transactions ([EMV](https://en.wikipedia.org/wiki/EMV) cryptograms)
 	- [PROJECT] [GOAT RAMP](https://ethglobal.com/showcase/goat-ramp-futsg)
@@ -20,4 +20,19 @@ To aid the development of zero-knowledge applications and the adoption of digita
 	- [PROJECT] [TLS Notary](https://tlsnotary.org/) (Performs an MPC with a 3rd party notary)
 	- [PROJECT] [Reclaim Protocol](https://www.reclaimprotocol.org/) (A 3rd party provides an attesting signature)
 - Git commits
-- Blockchain transactions (many projects)
+- Ethereum Attestation Service ([EAS](https://attest.sh/)), including [Coinbase onchain verification](https://help.coinbase.com/en/coinbase/getting-started/verify-my-account/onchain-verification) and [Gitcoin Passport](https://passport.gitcoin.co/)
+- [Proof of Humanity](https://proofofhumanity.id/)
+
+### National ID Cards
+- India's Aadhaar
+	- [PROJECT] [Anon aadhaar](https://github.com/privacy-scaling-explorations/anon-aadhaar)
+- Japan's My Number Cards
+	- [PROJECT] [Myna Wallet](https://github.com/MynaWallet/monorepo)
+- Taiwan DID
+	- [PROJECT] [tw-did](https://github.com/tw-did/tw-did/)
+
+### Onchain data
+- Ethereum transactions and state
+	- [PROJECT] [Axiom](https://github.com/axiom-crypto/axiom-eth)
+- Poaps
+- Semaphore identities

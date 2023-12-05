@@ -22,6 +22,8 @@ To aid the development of zero-knowledge applications and the adoption of digita
 - Git commits
 - Ethereum Attestation Service ([EAS](https://attest.sh/)), including [Coinbase onchain verification](https://help.coinbase.com/en/coinbase/getting-started/verify-my-account/onchain-verification) and [Gitcoin Passport](https://passport.gitcoin.co/)
 - [Proof of Humanity](https://proofofhumanity.id/)
+- PDFs (some PDFs e.g. [Docusign](https://www.docusign.com/how-it-works/electronic-signature/digital-signature/digital-signature-faq) are digitally signed by certificate authorities)
+	- [PROJECT] [zkCert](https://github.com/zkCert/halo2-zkcert)
 
 ### National ID Cards
 - India's Aadhaar

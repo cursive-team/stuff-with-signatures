@@ -20,7 +20,7 @@ To aid the development of zero-knowledge applications and the adoption of digita
 	- [PROJECT] [TLS Notary](https://tlsnotary.org/) (Performs an MPC with a 3rd party notary)
 	- [PROJECT] [Reclaim Protocol](https://www.reclaimprotocol.org/) (A 3rd party provides an attesting signature)
 - Git commits
-- Sign Protocol ([SP](https://sign.global/)), sign everything on chain
+- [Sign Protocol](https://docs.ethsign.xyz/sign-protocol), an omni-chain attestation protocol, enabling users to attest and verify any information on-chain freely
 - Ethereum Attestation Service ([EAS](https://attest.sh/)), including [Coinbase onchain verification](https://help.coinbase.com/en/coinbase/getting-started/verify-my-account/onchain-verification) and [Gitcoin Passport](https://passport.gitcoin.co/)
 - [Proof of Humanity](https://proofofhumanity.id/)
 - PDFs (some PDFs e.g. [Docusign](https://www.docusign.com/how-it-works/electronic-signature/digital-signature/digital-signature-faq) are digitally signed by certificate authorities)
